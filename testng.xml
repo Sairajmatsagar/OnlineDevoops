@@ -5,6 +5,8 @@
     <classes>
       <class name="com.cognizant.sample.Test1"/>
       <class name="com.cognizant.sample.Test2"/>
+      <class name="com.cognizant.sample.Test3"/>
+      <class name="com.cognizant.sample.Test4"/>
     </classes>
   </test> <!-- Test -->
 </suite> <!-- Suite -->
