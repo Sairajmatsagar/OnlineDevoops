@@ -9,7 +9,7 @@ public class Test2 {
 	}
 
 
-@Test
+         @Test
 	public void test3() {
 		System.out.println("Test3");
 	}
